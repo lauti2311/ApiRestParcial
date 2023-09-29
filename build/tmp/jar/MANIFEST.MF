@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+ApiRestApplication: package com.example.ApiRest.ApiRest.ApiRestApplicati
+ on
+
